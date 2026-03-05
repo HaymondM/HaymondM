@@ -5,13 +5,6 @@
 [![](https://img.shields.io/badge/-@HaymondM-%23000000?style=flat-square&logo=codesandbox)](https://codesandbox.io/u/HaymondM)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=portfolio&url=https%3A%2F%2Fhaymondm.github.io%2FPortfolio%2F)](https://haymondm.github.io/Portfolio/)
 
-
-𝑰 ❤️ 𝑪𝒚𝒃𝒆𝒓𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚 & 𝑩𝒂𝒄𝒌-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
-
-🔒 𝘾𝙮𝙗𝙚𝙧𝙨𝙚𝙘𝙪𝙧𝙞𝙩𝙮 𝙚𝙣𝙩𝙝𝙪𝙨𝙞𝙖𝙨𝙩 𝙬𝙞𝙩𝙝 𝙖 𝙥𝙖𝙨𝙨𝙞𝙤𝙣 𝙛𝙤𝙧 𝙨𝙚𝙘𝙪𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚
-
-🐍 𝙋𝙮𝙩𝙝𝙤𝙣 𝙛𝙖𝙣𝙖𝙩𝙞𝙘 | 🦀 𝙍𝙪𝙨𝙩 𝙡𝙚𝙖𝙧𝙣𝙚𝙧 | 💧 𝙒𝙖𝙩𝙚𝙧 𝙚𝙣𝙟𝙤𝙮𝙚𝙧
-
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
 [![FlagGenerAItor](https://svg.bookmark.style/api?url=https://github.com/HaymondM/FlagGenerAItor&mode=light&style=horizontal)](https://github.com/nuxtbase/auth-ui-vue)
