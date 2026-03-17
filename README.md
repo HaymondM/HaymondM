@@ -1,8 +1,7 @@
 # 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 Marshall Haymond
 
 [![](https://img.shields.io/badge/-@HaymondM-%23181717?style=flat-square&logo=github)](https://github.com/HaymondM)
-[![](https://img.shields.io/badge/-@HaymondM-%23000000?style=flat-square&logo=codepen)](https://codepen.io/HaymondM)
-[![](https://img.shields.io/badge/-@HaymondM-%23000000?style=flat-square&logo=codesandbox)](https://codesandbox.io/u/HaymondM)
+[![](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/marshall-haymond)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=portfolio&url=https%3A%2F%2Fhaymondm.github.io%2FPortfolio%2F)](https://haymondm.github.io/Portfolio/)
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
