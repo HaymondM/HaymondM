@@ -6,7 +6,7 @@
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-[![Log-AInalyzer](https://svg.bookmark.style/api?url=https://github.com/HaymondM/Log-AInalyzer&mode=light&style=horizontal)](https://github.com/nuxtbase/auth-ui-vue)
+[![Wardstone](https://svg.bookmark.style/api?url=https://github.com/HaymondM/Wardstone&mode=light&style=horizontal)](https://github.com/nuxtbase/auth-ui-vue)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
