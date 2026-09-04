@@ -6,7 +6,7 @@
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-[![Head-Start-TTADP](https://svg.bookmark.style/api?url=https://github.com/HHS/Head-Start-TTADP&mode=light&style=horizontal)](https://github.com/nuxtbase/auth-ui-vue)
+[![Head-Start-TTADP](https://svg.bookmark.style/api?url=https://github.com/HHS/Head-Start-TTADP&mode=light&style=horizontal)](https://github.com/HHS/Head-Start-TTADP)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
