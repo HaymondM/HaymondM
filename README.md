@@ -23,9 +23,3 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-
-
-## 𝗦𝘁𝗮𝘁𝘀
-![HaymondM's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HaymondM&theme=react-dark)
-
-
